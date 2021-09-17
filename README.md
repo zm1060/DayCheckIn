@@ -6,9 +6,16 @@
 npm install
 ```
 
-### 编译和热重载
+### Build and hot-reload
 ```
 npm run serve
+```
+### 127.0.0.1:8080
+```
+Visit 127.0.0.1:8080
+
+If you want, you can edit project.json to choose which port you want to use.
+
 ```
 
 #### Q&A
