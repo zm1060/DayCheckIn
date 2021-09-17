@@ -10,12 +10,9 @@ npm install
 ```
 npm run serve
 ```
-### 127.0.0.1:8080
+### Visit 127.0.0.1:8080
 ```
-Visit 127.0.0.1:8080
-
-If you want, you can edit project.json to choose which port you want to use.
-
+127.0.0.1:8080
 ```
 
 #### Q&A
